@@ -1,7 +1,5 @@
 # Developer Challenge
 
-Because the unity project is too big to upload to github, this readme shows the final project results and the corresponding scripts links
-
 ## 1. VR Project
 
 ### Video
